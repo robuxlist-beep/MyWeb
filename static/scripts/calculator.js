@@ -422,7 +422,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: "Eaglercraft 1.8",
-      link: "http://raw.githack.com/3kh0/3kh0-assets/main/minecraft-18/index.html",
+      link: "https://adfree3kh0.github.io/projects/precision-client/index.html",
       image: "/images/icons/mc.webp",
       categories: ["all"],
       error: false
