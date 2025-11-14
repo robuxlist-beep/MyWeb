@@ -162,8 +162,8 @@ document.addEventListener('DOMContentLoaded', () => {
     error: false
   },
   {
-    name: "1v1.LOL",
-    link: "https://cpsgames.org/game/1v1-lol",
+    name: "Build Now",
+    link: "https://www.crazygames.com/game/buildnow-gg",
     image: "/images/icons/1v1-lol.webp",
     categories: ['all,', '2P'],
     error: false
