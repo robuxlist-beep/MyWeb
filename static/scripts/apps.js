@@ -121,9 +121,9 @@ document.addEventListener('DOMContentLoaded', () => {
       categories: ["all", "media"]
     },
     {
-      name: "Telegram",
-      link: "https://web.telegram.org/",
-      image: "/images/icons/apps/telegram.png",
+      name: "Instagram",
+      link: "instagram.com",
+      image: "https://freeimage.host/i/fJlfvEb",
       categories: ["all", "soc"]
     },
     {
