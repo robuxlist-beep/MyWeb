@@ -64,8 +64,8 @@ document.addEventListener('DOMContentLoaded', () => {
       error: false
     },
     {
-      name: "Itch.io",
-      link: "https://itch.io",
+      name: "Smash Karts",
+      link: "https://smashkarts.io/",
       image: "/images/icons/itch.png",
       categories: ['all,', 'emu,', '2P'],
       error: false
