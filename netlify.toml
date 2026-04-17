@@ -1,0 +1,3 @@
+[build]
+command = "npm install && expo export -p web"
+publish = "dist"
