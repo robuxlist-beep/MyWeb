@@ -1,6 +1,3 @@
-# Netlify Configuration for Expo
-
-build = {
-  command = "npx expo export -p web",
+[build]
+  command = "npx expo export -p web"
   publish = "web-build"
-}
