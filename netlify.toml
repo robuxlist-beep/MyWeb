@@ -1,3 +1,6 @@
-[build]
-command = "npm install && expo export -p web"
-publish = "dist"
+# Netlify Configuration for Expo
+
+build = {
+  command = "npx expo export -p web",
+  publish = "web-build"
+}
